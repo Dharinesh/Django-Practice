@@ -1,2 +1,2 @@
 # Django-Practice
-A repository monitoring all the Django Learning and Experimenting progresses form scratch
+A repository recording all the Django Learning and Experimenting progresses form scratch
